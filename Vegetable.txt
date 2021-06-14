@@ -1,3 +1,2 @@
-Carrot
-Brinjal
-Tomato
+potato
+carrot
